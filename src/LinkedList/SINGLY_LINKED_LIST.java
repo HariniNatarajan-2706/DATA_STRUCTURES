@@ -71,6 +71,7 @@ public class SINGLY_LINKED_LIST extends Method{
 		insertAtBegain(1);
 		insertend(2);
 		insertend(3);
+		insertend(4);
 		insertend(5);
 		insertatmiddle(6,3);
 		traverse();
